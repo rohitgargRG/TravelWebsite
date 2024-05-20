@@ -3,3 +3,6 @@ package-lock.json
 tailwind.config.js
 *node_modules/*
 .git
+/src
+/dist/_redirects
+/dist/style.css
